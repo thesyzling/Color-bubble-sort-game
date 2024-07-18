@@ -1,0 +1,7 @@
+﻿  11.cpp
+C:\Users\bar--\source\repos\11\11\11.cpp(52,104): error C4576: başlatıcı listesi tarafından izlenen parantez içine alınmış bir tür standart olmayan açık tür bir dönüştürme söz dizimidir
+C:\Users\bar--\source\repos\11\11\11.cpp(52,54): error C2397: 'int'den 'float'ye dönüştürme bir daraltma dönüştürmesi gerektirir
+C:\Users\bar--\source\repos\11\11\11.cpp(52,54): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\bar--\source\repos\11\11\11.cpp(52,86): error C2397: 'int'den 'float'ye dönüştürme bir daraltma dönüştürmesi gerektirir
+C:\Users\bar--\source\repos\11\11\11.cpp(52,86): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\bar--\source\repos\11\11\11.cpp(53,41): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
